@@ -1,0 +1,6672 @@
+[
+    {
+        "id": "1",
+        "name": "Bulbasaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "001Bulbasaur.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "2",
+        "name": "Ivysaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "002Ivysaur.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "3",
+        "name": "Venusaur",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "003Venusaur.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "4",
+        "name": "Charmander",
+        "type": [
+            "Fire"
+        ],
+        "image": "004Charmander.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "5",
+        "name": "Charmeleon",
+        "type": [
+            "Fire"
+        ],
+        "image": "005Charmeleon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "6",
+        "name": "Charizard",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "image": "006Charizard.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "7",
+        "name": "Squirtle",
+        "type": [
+            "Water"
+        ],
+        "image": "007Squirtle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "8",
+        "name": "Wartortle",
+        "type": [
+            "Water"
+        ],
+        "image": "008Wartortle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "9",
+        "name": "Blastoise",
+        "type": [
+            "Water"
+        ],
+        "image": "009Blastoise.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "10",
+        "name": "Caterpie",
+        "type": [
+            "Bug"
+        ],
+        "image": "010Caterpie.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "11",
+        "name": "Metapod",
+        "type": [
+            "Bug"
+        ],
+        "image": "011Metapod.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "12",
+        "name": "Butterfree",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "012Butterfree.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "13",
+        "name": "Weedle",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "013Weedle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "14",
+        "name": "Kakuna",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "014Kakuna.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "15",
+        "name": "Beedrill",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "015Beedrill.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "16",
+        "name": "Pidgey",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "016Pidgey.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "17",
+        "name": "Pidgeotto",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "017Pidgeotto.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "18",
+        "name": "Pidgeot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "018Pidgeot.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "19",
+        "name": "Rattata",
+        "type": [
+            "Normal"
+        ],
+        "image": "019Rattata.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "20",
+        "name": "Raticate",
+        "type": [
+            "Normal"
+        ],
+        "image": "020Raticate.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "21",
+        "name": "Spearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "021Spearow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "22",
+        "name": "Fearow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "022Fearow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "23",
+        "name": "Ekans",
+        "type": [
+            "Poison"
+        ],
+        "image": "023Ekans.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "24",
+        "name": "Arbok",
+        "type": [
+            "Poison"
+        ],
+        "image": "024Arbok.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "25",
+        "name": "Pikachu",
+        "type": [
+            "Electric"
+        ],
+        "image": "025Pikachu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "26",
+        "name": "Raichu",
+        "type": [
+            "Electric"
+        ],
+        "image": "026Raichu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "27",
+        "name": "Sandshrew",
+        "type": [
+            "Ground"
+        ],
+        "image": "027Sandshrew.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "28",
+        "name": "Sandslash",
+        "type": [
+            "Ground"
+        ],
+        "image": "028Sandslash.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "29",
+        "name": "Nidoran\u2640",
+        "type": [
+            "Poison"
+        ],
+        "image": "029Nidoran.png",
+        "male": false,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "30",
+        "name": "Nidorina",
+        "type": [
+            "Poison"
+        ],
+        "image": "030Nidorina.png",
+        "male": false,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "31",
+        "name": "Nidoqueen",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "image": "031Nidoqueen.png",
+        "male": false,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "32",
+        "name": "Nidoran\u2642",
+        "type": [
+            "Poison"
+        ],
+        "image": "032Nidoran.png",
+        "male": true,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "33",
+        "name": "Nidorino",
+        "type": [
+            "Poison"
+        ],
+        "image": "033Nidorino.png",
+        "male": true,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "34",
+        "name": "Nidoking",
+        "type": [
+            "Poison",
+            "Ground"
+        ],
+        "image": "034Nidoking.png",
+        "male": true,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "35",
+        "name": "Clefairy",
+        "type": [
+            "Fairy"
+        ],
+        "image": "035Clefairy.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "36",
+        "name": "Clefable",
+        "type": [
+            "Fairy"
+        ],
+        "image": "036Clefable.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "37",
+        "name": "Vulpix",
+        "type": [
+            "Fire"
+        ],
+        "image": "037Vulpix.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "38",
+        "name": "Ninetales",
+        "type": [
+            "Fire"
+        ],
+        "image": "038Ninetales.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "39",
+        "name": "Jigglypuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "image": "039Jigglypuff.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "40",
+        "name": "Wigglytuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "image": "040Wigglytuff.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "41",
+        "name": "Zubat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "image": "041Zubat.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "42",
+        "name": "Golbat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "image": "042Golbat.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "43",
+        "name": "Oddish",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "043Oddish.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "44",
+        "name": "Gloom",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "044Gloom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "45",
+        "name": "Vileplume",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "045Vileplume.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "46",
+        "name": "Paras",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "image": "046Paras.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "47",
+        "name": "Parasect",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "image": "047Parasect.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "48",
+        "name": "Venonat",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "048Venonat.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "49",
+        "name": "Venomoth",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "049Venomoth.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "50",
+        "name": "Diglett",
+        "type": [
+            "Ground"
+        ],
+        "image": "050Diglett.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "51",
+        "name": "Dugtrio",
+        "type": [
+            "Ground"
+        ],
+        "image": "051Dugtrio.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "52",
+        "name": "Meowth",
+        "type": [
+            "Normal"
+        ],
+        "image": "052Meowth.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "53",
+        "name": "Persian",
+        "type": [
+            "Normal"
+        ],
+        "image": "053Persian.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "54",
+        "name": "Psyduck",
+        "type": [
+            "Water"
+        ],
+        "image": "054Psyduck.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "55",
+        "name": "Golduck",
+        "type": [
+            "Water"
+        ],
+        "image": "055Golduck.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "56",
+        "name": "Mankey",
+        "type": [
+            "Fighting"
+        ],
+        "image": "056Mankey.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "57",
+        "name": "Primeape",
+        "type": [
+            "Fighting"
+        ],
+        "image": "057Primeape.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "58",
+        "name": "Growlithe",
+        "type": [
+            "Fire"
+        ],
+        "image": "058Growlithe.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "59",
+        "name": "Arcanine",
+        "type": [
+            "Fire"
+        ],
+        "image": "059Arcanine.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "60",
+        "name": "Poliwag",
+        "type": [
+            "Water"
+        ],
+        "image": "060Poliwag.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "61",
+        "name": "Poliwhirl",
+        "type": [
+            "Water"
+        ],
+        "image": "061Poliwhirl.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "62",
+        "name": "Poliwrath",
+        "type": [
+            "Water",
+            "Fighting"
+        ],
+        "image": "062Poliwrath.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "63",
+        "name": "Abra",
+        "type": [
+            "Psychic"
+        ],
+        "image": "063Abra.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "64",
+        "name": "Kadabra",
+        "type": [
+            "Psychic"
+        ],
+        "image": "064Kadabra.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "65",
+        "name": "Alakazam",
+        "type": [
+            "Psychic"
+        ],
+        "image": "065Alakazam.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "66",
+        "name": "Machop",
+        "type": [
+            "Fighting"
+        ],
+        "image": "066Machop.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "67",
+        "name": "Machoke",
+        "type": [
+            "Fighting"
+        ],
+        "image": "067Machoke.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "68",
+        "name": "Machamp",
+        "type": [
+            "Fighting"
+        ],
+        "image": "068Machamp.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "69",
+        "name": "Bellsprout",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "069Bellsprout.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "70",
+        "name": "Weepinbell",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "070Weepinbell.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "71",
+        "name": "Victreebel",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "071Victreebel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "72",
+        "name": "Tentacool",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "image": "072Tentacool.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "73",
+        "name": "Tentacruel",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "image": "073Tentacruel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "74",
+        "name": "Geodude",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "image": "074Geodude.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "75",
+        "name": "Graveler",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "image": "075Graveler.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "76",
+        "name": "Golem",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "image": "076Golem.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "77",
+        "name": "Ponyta",
+        "type": [
+            "Fire"
+        ],
+        "image": "077Ponyta.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "78",
+        "name": "Rapidash",
+        "type": [
+            "Fire"
+        ],
+        "image": "078Rapidash.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "79",
+        "name": "Slowpoke",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "image": "079Slowpoke.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "80",
+        "name": "Slowbro",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "image": "080Slowbro.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "81",
+        "name": "Magnemite",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "image": "081Magnemite.png",
+        "male": false,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "82",
+        "name": "Magneton",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "image": "082Magneton.png",
+        "male": false,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "83",
+        "name": "Farfetch'd",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "083Farfetch'd.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "84",
+        "name": "Doduo",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "084Doduo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "85",
+        "name": "Dodrio",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "085Dodrio.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "86",
+        "name": "Seel",
+        "type": [
+            "Water"
+        ],
+        "image": "086Seel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "87",
+        "name": "Dewgong",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "image": "087Dewgong.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "88",
+        "name": "Grimer",
+        "type": [
+            "Poison"
+        ],
+        "image": "088Grimer.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "89",
+        "name": "Muk",
+        "type": [
+            "Poison"
+        ],
+        "image": "089Muk.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "90",
+        "name": "Shellder",
+        "type": [
+            "Water"
+        ],
+        "image": "090Shellder.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "91",
+        "name": "Cloyster",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "image": "091Cloyster.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "92",
+        "name": "Gastly",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "image": "092Gastly.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "93",
+        "name": "Haunter",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "image": "093Haunter.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "94",
+        "name": "Gengar",
+        "type": [
+            "Ghost",
+            "Poison"
+        ],
+        "image": "094Gengar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "95",
+        "name": "Onix",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "image": "095Onix.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "96",
+        "name": "Drowzee",
+        "type": [
+            "Psychic"
+        ],
+        "image": "096Drowzee.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "97",
+        "name": "Hypno",
+        "type": [
+            "Psychic"
+        ],
+        "image": "097Hypno.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "98",
+        "name": "Krabby",
+        "type": [
+            "Water"
+        ],
+        "image": "098Krabby.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "99",
+        "name": "Kingler",
+        "type": [
+            "Water"
+        ],
+        "image": "099Kingler.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "100",
+        "name": "Voltorb",
+        "type": [
+            "Electric"
+        ],
+        "image": "100Voltorb.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "101",
+        "name": "Electrode",
+        "type": [
+            "Electric"
+        ],
+        "image": "101Electrode.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "102",
+        "name": "Exeggcute",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "image": "102Exeggcute.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "103",
+        "name": "Exeggutor",
+        "type": [
+            "Grass",
+            "Psychic"
+        ],
+        "image": "103Exeggutor.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "104",
+        "name": "Cubone",
+        "type": [
+            "Ground"
+        ],
+        "image": "104Cubone.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "105",
+        "name": "Marowak",
+        "type": [
+            "Ground"
+        ],
+        "image": "105Marowak.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "106",
+        "name": "Hitmonlee",
+        "type": [
+            "Fighting"
+        ],
+        "image": "106Hitmonlee.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "107",
+        "name": "Hitmonchan",
+        "type": [
+            "Fighting"
+        ],
+        "image": "107Hitmonchan.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "108",
+        "name": "Lickitung",
+        "type": [
+            "Normal"
+        ],
+        "image": "108Lickitung.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "109",
+        "name": "Koffing",
+        "type": [
+            "Poison"
+        ],
+        "image": "109Koffing.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "110",
+        "name": "Weezing",
+        "type": [
+            "Poison"
+        ],
+        "image": "110Weezing.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "111",
+        "name": "Rhyhorn",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "image": "111Rhyhorn.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "112",
+        "name": "Rhydon",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "image": "112Rhydon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "113",
+        "name": "Chansey",
+        "type": [
+            "Normal"
+        ],
+        "image": "113Chansey.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "114",
+        "name": "Tangela",
+        "type": [
+            "Grass"
+        ],
+        "image": "114Tangela.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "115",
+        "name": "Kangaskhan",
+        "type": [
+            "Normal"
+        ],
+        "image": "115Kangaskhan.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "116",
+        "name": "Horsea",
+        "type": [
+            "Water"
+        ],
+        "image": "116Horsea.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "117",
+        "name": "Seadra",
+        "type": [
+            "Water"
+        ],
+        "image": "117Seadra.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "118",
+        "name": "Goldeen",
+        "type": [
+            "Water"
+        ],
+        "image": "118Goldeen.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "119",
+        "name": "Seaking",
+        "type": [
+            "Water"
+        ],
+        "image": "119Seaking.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "120",
+        "name": "Staryu",
+        "type": [
+            "Water"
+        ],
+        "image": "120Staryu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "121",
+        "name": "Starmie",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "image": "121Starmie.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "122",
+        "name": "Mr. Mime",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "image": "122Mr. Mime.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "123",
+        "name": "Scyther",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "123Scyther.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "124",
+        "name": "Jynx",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "image": "124Jynx.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "125",
+        "name": "Electabuzz",
+        "type": [
+            "Electric"
+        ],
+        "image": "125Electabuzz.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "126",
+        "name": "Magmar",
+        "type": [
+            "Fire"
+        ],
+        "image": "126Magmar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "127",
+        "name": "Pinsir",
+        "type": [
+            "Bug"
+        ],
+        "image": "127Pinsir.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "128",
+        "name": "Tauros",
+        "type": [
+            "Normal"
+        ],
+        "image": "128Tauros.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "129",
+        "name": "Magikarp",
+        "type": [
+            "Water"
+        ],
+        "image": "129Magikarp.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "130",
+        "name": "Gyarados",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "image": "130Gyarados.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "131",
+        "name": "Lapras",
+        "type": [
+            "Water",
+            "Ice"
+        ],
+        "image": "131Lapras.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "132",
+        "name": "Ditto",
+        "type": [
+            "Normal"
+        ],
+        "image": "132Ditto.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "133",
+        "name": "Eevee",
+        "type": [
+            "Normal"
+        ],
+        "image": "133Eevee.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "134",
+        "name": "Vaporeon",
+        "type": [
+            "Water"
+        ],
+        "image": "134Vaporeon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "135",
+        "name": "Jolteon",
+        "type": [
+            "Electric"
+        ],
+        "image": "135Jolteon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "136",
+        "name": "Flareon",
+        "type": [
+            "Fire"
+        ],
+        "image": "136Flareon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "137",
+        "name": "Porygon",
+        "type": [
+            "Normal"
+        ],
+        "image": "137Porygon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "138",
+        "name": "Omanyte",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "image": "138Omanyte.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "139",
+        "name": "Omastar",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "image": "139Omastar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "140",
+        "name": "Kabuto",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "image": "140Kabuto.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "141",
+        "name": "Kabutops",
+        "type": [
+            "Rock",
+            "Water"
+        ],
+        "image": "141Kabutops.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "142",
+        "name": "Aerodactyl",
+        "type": [
+            "Rock",
+            "Flying"
+        ],
+        "image": "142Aerodactyl.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "143",
+        "name": "Snorlax",
+        "type": [
+            "Normal"
+        ],
+        "image": "143Snorlax.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "144",
+        "name": "Articuno",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "image": "144Articuno.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "145",
+        "name": "Zapdos",
+        "type": [
+            "Electric",
+            "Flying"
+        ],
+        "image": "145Zapdos.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "146",
+        "name": "Moltres",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "image": "146Moltres.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "147",
+        "name": "Dratini",
+        "type": [
+            "Dragon"
+        ],
+        "image": "147Dratini.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "148",
+        "name": "Dragonair",
+        "type": [
+            "Dragon"
+        ],
+        "image": "148Dragonair.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "149",
+        "name": "Dragonite",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "image": "149Dragonite.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "150",
+        "name": "Mewtwo",
+        "type": [
+            "Psychic"
+        ],
+        "image": "150Mewtwo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "151",
+        "name": "Mew",
+        "type": [
+            "Psychic"
+        ],
+        "image": "151Mew.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "152",
+        "name": "Chikorita",
+        "type": [
+            "Grass"
+        ],
+        "image": "152Chikorita.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "153",
+        "name": "Bayleef",
+        "type": [
+            "Grass"
+        ],
+        "image": "153Bayleef.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "154",
+        "name": "Meganium",
+        "type": [
+            "Grass"
+        ],
+        "image": "154Meganium.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "155",
+        "name": "Cyndaquil",
+        "type": [
+            "Fire"
+        ],
+        "image": "155Cyndaquil.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "156",
+        "name": "Quilava",
+        "type": [
+            "Fire"
+        ],
+        "image": "156Quilava.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "157",
+        "name": "Typhlosion",
+        "type": [
+            "Fire"
+        ],
+        "image": "157Typhlosion.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "158",
+        "name": "Totodile",
+        "type": [
+            "Water"
+        ],
+        "image": "158Totodile.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "159",
+        "name": "Croconaw",
+        "type": [
+            "Water"
+        ],
+        "image": "159Croconaw.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "160",
+        "name": "Feraligatr",
+        "type": [
+            "Water"
+        ],
+        "image": "160Feraligatr.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "161",
+        "name": "Sentret",
+        "type": [
+            "Normal"
+        ],
+        "image": "161Sentret.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "162",
+        "name": "Furret",
+        "type": [
+            "Normal"
+        ],
+        "image": "162Furret.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "163",
+        "name": "Hoothoot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "163Hoothoot.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "164",
+        "name": "Noctowl",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "164Noctowl.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "165",
+        "name": "Ledyba",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "165Ledyba.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "166",
+        "name": "Ledian",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "166Ledian.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "167",
+        "name": "Spinarak",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "167Spinarak.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "168",
+        "name": "Ariados",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "168Ariados.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "169",
+        "name": "Crobat",
+        "type": [
+            "Poison",
+            "Flying"
+        ],
+        "image": "169Crobat.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "170",
+        "name": "Chinchou",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "image": "170Chinchou.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "171",
+        "name": "Lanturn",
+        "type": [
+            "Water",
+            "Electric"
+        ],
+        "image": "171Lanturn.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "172",
+        "name": "Pichu",
+        "type": [
+            "Electric"
+        ],
+        "image": "172Pichu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "173",
+        "name": "Cleffa",
+        "type": [
+            "Fairy"
+        ],
+        "image": "173Cleffa.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "174",
+        "name": "Igglybuff",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "image": "174Igglybuff.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "175",
+        "name": "Togepi",
+        "type": [
+            "Fairy"
+        ],
+        "image": "175Togepi.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "176",
+        "name": "Togetic",
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "image": "176Togetic.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "177",
+        "name": "Natu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "image": "177Natu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "178",
+        "name": "Xatu",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "image": "178Xatu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "179",
+        "name": "Mareep",
+        "type": [
+            "Electric"
+        ],
+        "image": "179Mareep.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "180",
+        "name": "Flaaffy",
+        "type": [
+            "Electric"
+        ],
+        "image": "180Flaaffy.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "181",
+        "name": "Ampharos",
+        "type": [
+            "Electric"
+        ],
+        "image": "181Ampharos.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "182",
+        "name": "Bellossom",
+        "type": [
+            "Grass"
+        ],
+        "image": "182Bellossom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "183",
+        "name": "Marill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "image": "183Marill.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "184",
+        "name": "Azumarill",
+        "type": [
+            "Water",
+            "Fairy"
+        ],
+        "image": "184Azumarill.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "185",
+        "name": "Sudowoodo",
+        "type": [
+            "Rock"
+        ],
+        "image": "185Sudowoodo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "186",
+        "name": "Politoed",
+        "type": [
+            "Water"
+        ],
+        "image": "186Politoed.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "187",
+        "name": "Hoppip",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "image": "187Hoppip.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "188",
+        "name": "Skiploom",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "image": "188Skiploom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "189",
+        "name": "Jumpluff",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "image": "189Jumpluff.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "190",
+        "name": "Aipom",
+        "type": [
+            "Normal"
+        ],
+        "image": "190Aipom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "191",
+        "name": "Sunkern",
+        "type": [
+            "Grass"
+        ],
+        "image": "191Sunkern.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "192",
+        "name": "Sunflora",
+        "type": [
+            "Grass"
+        ],
+        "image": "192Sunflora.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "193",
+        "name": "Yanma",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "193Yanma.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "194",
+        "name": "Wooper",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "194Wooper.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "195",
+        "name": "Quagsire",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "195Quagsire.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "196",
+        "name": "Espeon",
+        "type": [
+            "Psychic"
+        ],
+        "image": "196Espeon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "197",
+        "name": "Umbreon",
+        "type": [
+            "Dark"
+        ],
+        "image": "197Umbreon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "198",
+        "name": "Murkrow",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "image": "198Murkrow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "199",
+        "name": "Slowking",
+        "type": [
+            "Water",
+            "Psychic"
+        ],
+        "image": "199Slowking.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "200",
+        "name": "Misdreavus",
+        "type": [
+            "Ghost"
+        ],
+        "image": "200Misdreavus.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "201",
+        "name": "Unown",
+        "type": [
+            "Psychic"
+        ],
+        "image": "201Unown.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "202",
+        "name": "Wobbuffet",
+        "type": [
+            "Psychic"
+        ],
+        "image": "202Wobbuffet.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "203",
+        "name": "Girafarig",
+        "type": [
+            "Normal",
+            "Psychic"
+        ],
+        "image": "203Girafarig.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "204",
+        "name": "Pineco",
+        "type": [
+            "Bug"
+        ],
+        "image": "204Pineco.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "205",
+        "name": "Forretress",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "image": "205Forretress.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "206",
+        "name": "Dunsparce",
+        "type": [
+            "Normal"
+        ],
+        "image": "206Dunsparce.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "207",
+        "name": "Gligar",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "image": "207Gligar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "208",
+        "name": "Steelix",
+        "type": [
+            "Steel",
+            "Ground"
+        ],
+        "image": "208Steelix.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "209",
+        "name": "Snubbull",
+        "type": [
+            "Fairy"
+        ],
+        "image": "209Snubbull.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "210",
+        "name": "Granbull",
+        "type": [
+            "Fairy"
+        ],
+        "image": "210Granbull.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "211",
+        "name": "Qwilfish",
+        "type": [
+            "Water",
+            "Poison"
+        ],
+        "image": "211Qwilfish.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "212",
+        "name": "Scizor",
+        "type": [
+            "Bug",
+            "Steel"
+        ],
+        "image": "212Scizor.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "213",
+        "name": "Shuckle",
+        "type": [
+            "Bug",
+            "Rock"
+        ],
+        "image": "213Shuckle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "214",
+        "name": "Heracross",
+        "type": [
+            "Bug",
+            "Fighting"
+        ],
+        "image": "214Heracross.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "215",
+        "name": "Sneasel",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "image": "215Sneasel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "216",
+        "name": "Teddiursa",
+        "type": [
+            "Normal"
+        ],
+        "image": "216Teddiursa.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "217",
+        "name": "Ursaring",
+        "type": [
+            "Normal"
+        ],
+        "image": "217Ursaring.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "218",
+        "name": "Slugma",
+        "type": [
+            "Fire"
+        ],
+        "image": "218Slugma.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "219",
+        "name": "Magcargo",
+        "type": [
+            "Fire",
+            "Rock"
+        ],
+        "image": "219Magcargo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "220",
+        "name": "Swinub",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "image": "220Swinub.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "221",
+        "name": "Piloswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "image": "221Piloswine.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "222",
+        "name": "Corsola",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "image": "222Corsola.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "223",
+        "name": "Remoraid",
+        "type": [
+            "Water"
+        ],
+        "image": "223Remoraid.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "224",
+        "name": "Octillery",
+        "type": [
+            "Water"
+        ],
+        "image": "224Octillery.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "225",
+        "name": "Delibird",
+        "type": [
+            "Ice",
+            "Flying"
+        ],
+        "image": "225Delibird.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "226",
+        "name": "Mantine",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "image": "226Mantine.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "227",
+        "name": "Skarmory",
+        "type": [
+            "Steel",
+            "Flying"
+        ],
+        "image": "227Skarmory.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "228",
+        "name": "Houndour",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "image": "228Houndour.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "229",
+        "name": "Houndoom",
+        "type": [
+            "Dark",
+            "Fire"
+        ],
+        "image": "229Houndoom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "230",
+        "name": "Kingdra",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "image": "230Kingdra.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "231",
+        "name": "Phanpy",
+        "type": [
+            "Ground"
+        ],
+        "image": "231Phanpy.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "232",
+        "name": "Donphan",
+        "type": [
+            "Ground"
+        ],
+        "image": "232Donphan.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "233",
+        "name": "Porygon2",
+        "type": [
+            "Normal"
+        ],
+        "image": "233Porygon2.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "234",
+        "name": "Stantler",
+        "type": [
+            "Normal"
+        ],
+        "image": "234Stantler.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "235",
+        "name": "Smeargle",
+        "type": [
+            "Normal"
+        ],
+        "image": "235Smeargle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "236",
+        "name": "Tyrogue",
+        "type": [
+            "Fighting"
+        ],
+        "image": "236Tyrogue.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "237",
+        "name": "Hitmontop",
+        "type": [
+            "Fighting"
+        ],
+        "image": "237Hitmontop.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "238",
+        "name": "Smoochum",
+        "type": [
+            "Ice",
+            "Psychic"
+        ],
+        "image": "238Smoochum.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "239",
+        "name": "Elekid",
+        "type": [
+            "Electric"
+        ],
+        "image": "239Elekid.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "240",
+        "name": "Magby",
+        "type": [
+            "Fire"
+        ],
+        "image": "240Magby.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "241",
+        "name": "Miltank",
+        "type": [
+            "Normal"
+        ],
+        "image": "241Miltank.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "242",
+        "name": "Blissey",
+        "type": [
+            "Normal"
+        ],
+        "image": "242Blissey.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "243",
+        "name": "Raikou",
+        "type": [
+            "Electric"
+        ],
+        "image": "243Raikou.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "244",
+        "name": "Entei",
+        "type": [
+            "Fire"
+        ],
+        "image": "244Entei.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "245",
+        "name": "Suicune",
+        "type": [
+            "Water"
+        ],
+        "image": "245Suicune.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "246",
+        "name": "Larvitar",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "image": "246Larvitar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "247",
+        "name": "Pupitar",
+        "type": [
+            "Rock",
+            "Ground"
+        ],
+        "image": "247Pupitar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "248",
+        "name": "Tyranitar",
+        "type": [
+            "Rock",
+            "Dark"
+        ],
+        "image": "248Tyranitar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "249",
+        "name": "Lugia",
+        "type": [
+            "Psychic",
+            "Flying"
+        ],
+        "image": "249Lugia.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "250",
+        "name": "Ho-Oh",
+        "type": [
+            "Fire",
+            "Flying"
+        ],
+        "image": "250Ho-Oh.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "251",
+        "name": "Celebi",
+        "type": [
+            "Psychic",
+            "Grass"
+        ],
+        "image": "251Celebi.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "252",
+        "name": "Treecko",
+        "type": [
+            "Grass"
+        ],
+        "image": "252Treecko.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "253",
+        "name": "Grovyle",
+        "type": [
+            "Grass"
+        ],
+        "image": "253Grovyle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "254",
+        "name": "Sceptile",
+        "type": [
+            "Grass"
+        ],
+        "image": "254Sceptile.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "255",
+        "name": "Torchic",
+        "type": [
+            "Fire"
+        ],
+        "image": "255Torchic.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "256",
+        "name": "Combusken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "image": "256Combusken.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "257",
+        "name": "Blaziken",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "image": "257Blaziken.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "258",
+        "name": "Mudkip",
+        "type": [
+            "Water"
+        ],
+        "image": "258Mudkip.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "259",
+        "name": "Marshtomp",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "259Marshtomp.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "260",
+        "name": "Swampert",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "260Swampert.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "261",
+        "name": "Poochyena",
+        "type": [
+            "Dark"
+        ],
+        "image": "261Poochyena.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "262",
+        "name": "Mightyena",
+        "type": [
+            "Dark"
+        ],
+        "image": "262Mightyena.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "263",
+        "name": "Zigzagoon",
+        "type": [
+            "Normal"
+        ],
+        "image": "263Zigzagoon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "264",
+        "name": "Linoone",
+        "type": [
+            "Normal"
+        ],
+        "image": "264Linoone.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "265",
+        "name": "Wurmple",
+        "type": [
+            "Bug"
+        ],
+        "image": "265Wurmple.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "266",
+        "name": "Silcoon",
+        "type": [
+            "Bug"
+        ],
+        "image": "266Silcoon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "267",
+        "name": "Beautifly",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "267Beautifly.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "268",
+        "name": "Cascoon",
+        "type": [
+            "Bug"
+        ],
+        "image": "268Cascoon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "269",
+        "name": "Dustox",
+        "type": [
+            "Bug",
+            "Poison"
+        ],
+        "image": "269Dustox.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "270",
+        "name": "Lotad",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "image": "270Lotad.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "271",
+        "name": "Lombre",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "image": "271Lombre.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "272",
+        "name": "Ludicolo",
+        "type": [
+            "Water",
+            "Grass"
+        ],
+        "image": "272Ludicolo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "273",
+        "name": "Seedot",
+        "type": [
+            "Grass"
+        ],
+        "image": "273Seedot.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "274",
+        "name": "Nuzleaf",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "image": "274Nuzleaf.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "275",
+        "name": "Shiftry",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "image": "275Shiftry.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "276",
+        "name": "Taillow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "276Taillow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "277",
+        "name": "Swellow",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "277Swellow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "278",
+        "name": "Wingull",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "image": "278Wingull.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "279",
+        "name": "Pelipper",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "image": "279Pelipper.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "280",
+        "name": "Ralts",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "image": "280Ralts.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "281",
+        "name": "Kirlia",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "image": "281Kirlia.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "282",
+        "name": "Gardevoir",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "image": "282Gardevoir.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "283",
+        "name": "Surskit",
+        "type": [
+            "Bug",
+            "Water"
+        ],
+        "image": "283Surskit.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "284",
+        "name": "Masquerain",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "284Masquerain.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "285",
+        "name": "Shroomish",
+        "type": [
+            "Grass"
+        ],
+        "image": "285Shroomish.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "286",
+        "name": "Breloom",
+        "type": [
+            "Grass",
+            "Fighting"
+        ],
+        "image": "286Breloom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "287",
+        "name": "Slakoth",
+        "type": [
+            "Normal"
+        ],
+        "image": "287Slakoth.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "288",
+        "name": "Vigoroth",
+        "type": [
+            "Normal"
+        ],
+        "image": "288Vigoroth.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "289",
+        "name": "Slaking",
+        "type": [
+            "Normal"
+        ],
+        "image": "289Slaking.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "290",
+        "name": "Nincada",
+        "type": [
+            "Bug",
+            "Ground"
+        ],
+        "image": "290Nincada.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "291",
+        "name": "Ninjask",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "291Ninjask.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "292",
+        "name": "Shedinja",
+        "type": [
+            "Bug",
+            "Ghost"
+        ],
+        "image": "292Shedinja.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "293",
+        "name": "Whismur",
+        "type": [
+            "Normal"
+        ],
+        "image": "293Whismur.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "294",
+        "name": "Loudred",
+        "type": [
+            "Normal"
+        ],
+        "image": "294Loudred.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "295",
+        "name": "Exploud",
+        "type": [
+            "Normal"
+        ],
+        "image": "295Exploud.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "296",
+        "name": "Makuhita",
+        "type": [
+            "Fighting"
+        ],
+        "image": "296Makuhita.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "297",
+        "name": "Hariyama",
+        "type": [
+            "Fighting"
+        ],
+        "image": "297Hariyama.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "298",
+        "name": "Azurill",
+        "type": [
+            "Normal",
+            "Fairy"
+        ],
+        "image": "298Azurill.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "299",
+        "name": "Nosepass",
+        "type": [
+            "Rock"
+        ],
+        "image": "299Nosepass.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "300",
+        "name": "Skitty",
+        "type": [
+            "Normal"
+        ],
+        "image": "300Skitty.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "301",
+        "name": "Delcatty",
+        "type": [
+            "Normal"
+        ],
+        "image": "301Delcatty.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "302",
+        "name": "Sableye",
+        "type": [
+            "Dark",
+            "Ghost"
+        ],
+        "image": "302Sableye.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "303",
+        "name": "Mawile",
+        "type": [
+            "Steel",
+            "Fairy"
+        ],
+        "image": "303Mawile.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "304",
+        "name": "Aron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "image": "304Aron.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "305",
+        "name": "Lairon",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "image": "305Lairon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "306",
+        "name": "Aggron",
+        "type": [
+            "Steel",
+            "Rock"
+        ],
+        "image": "306Aggron.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "307",
+        "name": "Meditite",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "image": "307Meditite.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "308",
+        "name": "Medicham",
+        "type": [
+            "Fighting",
+            "Psychic"
+        ],
+        "image": "308Medicham.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "309",
+        "name": "Electrike",
+        "type": [
+            "Electric"
+        ],
+        "image": "309Electrike.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "310",
+        "name": "Manectric",
+        "type": [
+            "Electric"
+        ],
+        "image": "310Manectric.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "311",
+        "name": "Plusle",
+        "type": [
+            "Electric"
+        ],
+        "image": "311Plusle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "312",
+        "name": "Minun",
+        "type": [
+            "Electric"
+        ],
+        "image": "312Minun.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "313",
+        "name": "Volbeat",
+        "type": [
+            "Bug"
+        ],
+        "image": "313Volbeat.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "314",
+        "name": "Illumise",
+        "type": [
+            "Bug"
+        ],
+        "image": "314Illumise.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "315",
+        "name": "Roselia",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "315Roselia.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "316",
+        "name": "Gulpin",
+        "type": [
+            "Poison"
+        ],
+        "image": "316Gulpin.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "317",
+        "name": "Swalot",
+        "type": [
+            "Poison"
+        ],
+        "image": "317Swalot.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "318",
+        "name": "Carvanha",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "image": "318Carvanha.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "319",
+        "name": "Sharpedo",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "image": "319Sharpedo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "320",
+        "name": "Wailmer",
+        "type": [
+            "Water"
+        ],
+        "image": "320Wailmer.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "321",
+        "name": "Wailord",
+        "type": [
+            "Water"
+        ],
+        "image": "321Wailord.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "322",
+        "name": "Numel",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "image": "322Numel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "323",
+        "name": "Camerupt",
+        "type": [
+            "Fire",
+            "Ground"
+        ],
+        "image": "323Camerupt.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "324",
+        "name": "Torkoal",
+        "type": [
+            "Fire"
+        ],
+        "image": "324Torkoal.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "325",
+        "name": "Spoink",
+        "type": [
+            "Psychic"
+        ],
+        "image": "325Spoink.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "326",
+        "name": "Grumpig",
+        "type": [
+            "Psychic"
+        ],
+        "image": "326Grumpig.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "327",
+        "name": "Spinda",
+        "type": [
+            "Normal"
+        ],
+        "image": "327Spinda.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "328",
+        "name": "Trapinch",
+        "type": [
+            "Ground"
+        ],
+        "image": "328Trapinch.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "329",
+        "name": "Vibrava",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "image": "329Vibrava.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "330",
+        "name": "Flygon",
+        "type": [
+            "Ground",
+            "Dragon"
+        ],
+        "image": "330Flygon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "331",
+        "name": "Cacnea",
+        "type": [
+            "Grass"
+        ],
+        "image": "331Cacnea.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "332",
+        "name": "Cacturne",
+        "type": [
+            "Grass",
+            "Dark"
+        ],
+        "image": "332Cacturne.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "333",
+        "name": "Swablu",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "333Swablu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "334",
+        "name": "Altaria",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "image": "334Altaria.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "335",
+        "name": "Zangoose",
+        "type": [
+            "Normal"
+        ],
+        "image": "335Zangoose.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "336",
+        "name": "Seviper",
+        "type": [
+            "Poison"
+        ],
+        "image": "336Seviper.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "337",
+        "name": "Lunatone",
+        "type": [
+            "Rock",
+            "Psychic"
+        ],
+        "image": "337Lunatone.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "338",
+        "name": "Solrock",
+        "type": [
+            "Rock",
+            "Psychic"
+        ],
+        "image": "338Solrock.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "339",
+        "name": "Barboach",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "339Barboach.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "340",
+        "name": "Whiscash",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "340Whiscash.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "341",
+        "name": "Corphish",
+        "type": [
+            "Water"
+        ],
+        "image": "341Corphish.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "342",
+        "name": "Crawdaunt",
+        "type": [
+            "Water",
+            "Dark"
+        ],
+        "image": "342Crawdaunt.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "343",
+        "name": "Baltoy",
+        "type": [
+            "Ground",
+            "Psychic"
+        ],
+        "image": "343Baltoy.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "344",
+        "name": "Claydol",
+        "type": [
+            "Ground",
+            "Psychic"
+        ],
+        "image": "344Claydol.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "345",
+        "name": "Lileep",
+        "type": [
+            "Rock",
+            "Grass"
+        ],
+        "image": "345Lileep.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "346",
+        "name": "Cradily",
+        "type": [
+            "Rock",
+            "Grass"
+        ],
+        "image": "346Cradily.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "347",
+        "name": "Anorith",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "image": "347Anorith.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "348",
+        "name": "Armaldo",
+        "type": [
+            "Rock",
+            "Bug"
+        ],
+        "image": "348Armaldo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "349",
+        "name": "Feebas",
+        "type": [
+            "Water"
+        ],
+        "image": "349Feebas.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "350",
+        "name": "Milotic",
+        "type": [
+            "Water"
+        ],
+        "image": "350Milotic.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "351",
+        "name": "Castform",
+        "type": [
+            "Normal"
+        ],
+        "image": "351Castform.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "352",
+        "name": "Kecleon",
+        "type": [
+            "Normal"
+        ],
+        "image": "352Kecleon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "353",
+        "name": "Shuppet",
+        "type": [
+            "Ghost"
+        ],
+        "image": "353Shuppet.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "354",
+        "name": "Banette",
+        "type": [
+            "Ghost"
+        ],
+        "image": "354Banette.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "355",
+        "name": "Duskull",
+        "type": [
+            "Ghost"
+        ],
+        "image": "355Duskull.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "356",
+        "name": "Dusclops",
+        "type": [
+            "Ghost"
+        ],
+        "image": "356Dusclops.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "357",
+        "name": "Tropius",
+        "type": [
+            "Grass",
+            "Flying"
+        ],
+        "image": "357Tropius.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "358",
+        "name": "Chimecho",
+        "type": [
+            "Psychic"
+        ],
+        "image": "358Chimecho.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "359",
+        "name": "Absol",
+        "type": [
+            "Dark"
+        ],
+        "image": "359Absol.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "360",
+        "name": "Wynaut",
+        "type": [
+            "Psychic"
+        ],
+        "image": "360Wynaut.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "361",
+        "name": "Snorunt",
+        "type": [
+            "Ice"
+        ],
+        "image": "361Snorunt.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "362",
+        "name": "Glalie",
+        "type": [
+            "Ice"
+        ],
+        "image": "362Glalie.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "363",
+        "name": "Spheal",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "image": "363Spheal.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "364",
+        "name": "Sealeo",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "image": "364Sealeo.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "365",
+        "name": "Walrein",
+        "type": [
+            "Ice",
+            "Water"
+        ],
+        "image": "365Walrein.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "366",
+        "name": "Clamperl",
+        "type": [
+            "Water"
+        ],
+        "image": "366Clamperl.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "367",
+        "name": "Huntail",
+        "type": [
+            "Water"
+        ],
+        "image": "367Huntail.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "368",
+        "name": "Gorebyss",
+        "type": [
+            "Water"
+        ],
+        "image": "368Gorebyss.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "369",
+        "name": "Relicanth",
+        "type": [
+            "Water",
+            "Rock"
+        ],
+        "image": "369Relicanth.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "370",
+        "name": "Luvdisc",
+        "type": [
+            "Water"
+        ],
+        "image": "370Luvdisc.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "371",
+        "name": "Bagon",
+        "type": [
+            "Dragon"
+        ],
+        "image": "371Bagon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "372",
+        "name": "Shelgon",
+        "type": [
+            "Dragon"
+        ],
+        "image": "372Shelgon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "373",
+        "name": "Salamence",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "image": "373Salamence.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "374",
+        "name": "Beldum",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "image": "374Beldum.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "375",
+        "name": "Metang",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "image": "375Metang.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "376",
+        "name": "Metagross",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "image": "376Metagross.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "377",
+        "name": "Regirock",
+        "type": [
+            "Rock"
+        ],
+        "image": "377Regirock.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "378",
+        "name": "Regice",
+        "type": [
+            "Ice"
+        ],
+        "image": "378Regice.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "379",
+        "name": "Registeel",
+        "type": [
+            "Steel"
+        ],
+        "image": "379Registeel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "380",
+        "name": "Latias",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "image": "380Latias.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "381",
+        "name": "Latios",
+        "type": [
+            "Dragon",
+            "Psychic"
+        ],
+        "image": "381Latios.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "382",
+        "name": "Kyogre",
+        "type": [
+            "Water"
+        ],
+        "image": "382Kyogre.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "383",
+        "name": "Groudon",
+        "type": [
+            "Ground"
+        ],
+        "image": "383Groudon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "384",
+        "name": "Rayquaza",
+        "type": [
+            "Dragon",
+            "Flying"
+        ],
+        "image": "384Rayquaza.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "385",
+        "name": "Jirachi",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "image": "385Jirachi.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "386",
+        "name": "Deoxys",
+        "type": [
+            "Psychic"
+        ],
+        "image": "386Deoxys.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "387",
+        "name": "Turtwig",
+        "type": [
+            "Grass"
+        ],
+        "image": "387Turtwig.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "388",
+        "name": "Grotle",
+        "type": [
+            "Grass"
+        ],
+        "image": "388Grotle.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "389",
+        "name": "Torterra",
+        "type": [
+            "Grass",
+            "Ground"
+        ],
+        "image": "389Torterra.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "390",
+        "name": "Chimchar",
+        "type": [
+            "Fire"
+        ],
+        "image": "390Chimchar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "391",
+        "name": "Monferno",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "image": "391Monferno.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "392",
+        "name": "Infernape",
+        "type": [
+            "Fire",
+            "Fighting"
+        ],
+        "image": "392Infernape.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "393",
+        "name": "Piplup",
+        "type": [
+            "Water"
+        ],
+        "image": "393Piplup.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "394",
+        "name": "Prinplup",
+        "type": [
+            "Water"
+        ],
+        "image": "394Prinplup.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "395",
+        "name": "Empoleon",
+        "type": [
+            "Water",
+            "Steel"
+        ],
+        "image": "395Empoleon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "396",
+        "name": "Starly",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "396Starly.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "397",
+        "name": "Staravia",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "397Staravia.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "398",
+        "name": "Staraptor",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "398Staraptor.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "399",
+        "name": "Bidoof",
+        "type": [
+            "Normal"
+        ],
+        "image": "399Bidoof.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "400",
+        "name": "Bibarel",
+        "type": [
+            "Normal",
+            "Water"
+        ],
+        "image": "400Bibarel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "401",
+        "name": "Kricketot",
+        "type": [
+            "Bug"
+        ],
+        "image": "401Kricketot.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "402",
+        "name": "Kricketune",
+        "type": [
+            "Bug"
+        ],
+        "image": "402Kricketune.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "403",
+        "name": "Shinx",
+        "type": [
+            "Electric"
+        ],
+        "image": "403Shinx.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "404",
+        "name": "Luxio",
+        "type": [
+            "Electric"
+        ],
+        "image": "404Luxio.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "405",
+        "name": "Luxray",
+        "type": [
+            "Electric"
+        ],
+        "image": "405Luxray.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "406",
+        "name": "Budew",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "406Budew.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "407",
+        "name": "Roserade",
+        "type": [
+            "Grass",
+            "Poison"
+        ],
+        "image": "407Roserade.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "408",
+        "name": "Cranidos",
+        "type": [
+            "Rock"
+        ],
+        "image": "408Cranidos.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "409",
+        "name": "Rampardos",
+        "type": [
+            "Rock"
+        ],
+        "image": "409Rampardos.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "410",
+        "name": "Shieldon",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "image": "410Shieldon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "411",
+        "name": "Bastiodon",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "image": "411Bastiodon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "412",
+        "name": "Burmy",
+        "type": [
+            "Bug"
+        ],
+        "image": "412Burmy.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "413",
+        "name": "Wormadam",
+        "type": [
+            "Bug",
+            "Grass"
+        ],
+        "image": "413Wormadam.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "414",
+        "name": "Mothim",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "414Mothim.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "415",
+        "name": "Combee",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "415Combee.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "416",
+        "name": "Vespiquen",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "416Vespiquen.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "417",
+        "name": "Pachirisu",
+        "type": [
+            "Electric"
+        ],
+        "image": "417Pachirisu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "418",
+        "name": "Buizel",
+        "type": [
+            "Water"
+        ],
+        "image": "418Buizel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "419",
+        "name": "Floatzel",
+        "type": [
+            "Water"
+        ],
+        "image": "419Floatzel.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "420",
+        "name": "Cherubi",
+        "type": [
+            "Grass"
+        ],
+        "image": "420Cherubi.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "421",
+        "name": "Cherrim",
+        "type": [
+            "Grass"
+        ],
+        "image": "421Cherrim.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "422",
+        "name": "Shellos",
+        "type": [
+            "Water"
+        ],
+        "image": "422Shellos.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "423",
+        "name": "Gastrodon",
+        "type": [
+            "Water",
+            "Ground"
+        ],
+        "image": "423Gastrodon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "424",
+        "name": "Ambipom",
+        "type": [
+            "Normal"
+        ],
+        "image": "424Ambipom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "425",
+        "name": "Drifloon",
+        "type": [
+            "Ghost",
+            "Flying"
+        ],
+        "image": "425Drifloon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "426",
+        "name": "Drifblim",
+        "type": [
+            "Ghost",
+            "Flying"
+        ],
+        "image": "426Drifblim.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "427",
+        "name": "Buneary",
+        "type": [
+            "Normal"
+        ],
+        "image": "427Buneary.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "428",
+        "name": "Lopunny",
+        "type": [
+            "Normal"
+        ],
+        "image": "428Lopunny.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "429",
+        "name": "Mismagius",
+        "type": [
+            "Ghost"
+        ],
+        "image": "429Mismagius.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "430",
+        "name": "Honchkrow",
+        "type": [
+            "Dark",
+            "Flying"
+        ],
+        "image": "430Honchkrow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "431",
+        "name": "Glameow",
+        "type": [
+            "Normal"
+        ],
+        "image": "431Glameow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "432",
+        "name": "Purugly",
+        "type": [
+            "Normal"
+        ],
+        "image": "432Purugly.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "433",
+        "name": "Chingling",
+        "type": [
+            "Psychic"
+        ],
+        "image": "433Chingling.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "434",
+        "name": "Stunky",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "image": "434Stunky.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "435",
+        "name": "Skuntank",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "image": "435Skuntank.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "436",
+        "name": "Bronzor",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "image": "436Bronzor.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "437",
+        "name": "Bronzong",
+        "type": [
+            "Steel",
+            "Psychic"
+        ],
+        "image": "437Bronzong.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "438",
+        "name": "Bonsly",
+        "type": [
+            "Rock"
+        ],
+        "image": "438Bonsly.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "439",
+        "name": "Mime Jr.",
+        "type": [
+            "Psychic",
+            "Fairy"
+        ],
+        "image": "439Mime Jr..png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "440",
+        "name": "Happiny",
+        "type": [
+            "Normal"
+        ],
+        "image": "440Happiny.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "441",
+        "name": "Chatot",
+        "type": [
+            "Normal",
+            "Flying"
+        ],
+        "image": "441Chatot.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "442",
+        "name": "Spiritomb",
+        "type": [
+            "Ghost",
+            "Dark"
+        ],
+        "image": "442Spiritomb.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "443",
+        "name": "Gible",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "image": "443Gible.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "444",
+        "name": "Gabite",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "image": "444Gabite.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "445",
+        "name": "Garchomp",
+        "type": [
+            "Dragon",
+            "Ground"
+        ],
+        "image": "445Garchomp.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "446",
+        "name": "Munchlax",
+        "type": [
+            "Normal"
+        ],
+        "image": "446Munchlax.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "447",
+        "name": "Riolu",
+        "type": [
+            "Fighting"
+        ],
+        "image": "447Riolu.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "448",
+        "name": "Lucario",
+        "type": [
+            "Fighting",
+            "Steel"
+        ],
+        "image": "448Lucario.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "449",
+        "name": "Hippopotas",
+        "type": [
+            "Ground"
+        ],
+        "image": "449Hippopotas.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "450",
+        "name": "Hippowdon",
+        "type": [
+            "Ground"
+        ],
+        "image": "450Hippowdon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "451",
+        "name": "Skorupi",
+        "type": [
+            "Poison",
+            "Bug"
+        ],
+        "image": "451Skorupi.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "452",
+        "name": "Drapion",
+        "type": [
+            "Poison",
+            "Dark"
+        ],
+        "image": "452Drapion.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "453",
+        "name": "Croagunk",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "image": "453Croagunk.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "454",
+        "name": "Toxicroak",
+        "type": [
+            "Poison",
+            "Fighting"
+        ],
+        "image": "454Toxicroak.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "455",
+        "name": "Carnivine",
+        "type": [
+            "Grass"
+        ],
+        "image": "455Carnivine.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "456",
+        "name": "Finneon",
+        "type": [
+            "Water"
+        ],
+        "image": "456Finneon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "457",
+        "name": "Lumineon",
+        "type": [
+            "Water"
+        ],
+        "image": "457Lumineon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "458",
+        "name": "Mantyke",
+        "type": [
+            "Water",
+            "Flying"
+        ],
+        "image": "458Mantyke.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "459",
+        "name": "Snover",
+        "type": [
+            "Grass",
+            "Ice"
+        ],
+        "image": "459Snover.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "460",
+        "name": "Abomasnow",
+        "type": [
+            "Grass",
+            "Ice"
+        ],
+        "image": "460Abomasnow.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "461",
+        "name": "Weavile",
+        "type": [
+            "Dark",
+            "Ice"
+        ],
+        "image": "461Weavile.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "462",
+        "name": "Magnezone",
+        "type": [
+            "Electric",
+            "Steel"
+        ],
+        "image": "462Magnezone.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "463",
+        "name": "Lickilicky",
+        "type": [
+            "Normal"
+        ],
+        "image": "463Lickilicky.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "464",
+        "name": "Rhyperior",
+        "type": [
+            "Ground",
+            "Rock"
+        ],
+        "image": "464Rhyperior.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "465",
+        "name": "Tangrowth",
+        "type": [
+            "Grass"
+        ],
+        "image": "465Tangrowth.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "466",
+        "name": "Electivire",
+        "type": [
+            "Electric"
+        ],
+        "image": "466Electivire.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "467",
+        "name": "Magmortar",
+        "type": [
+            "Fire"
+        ],
+        "image": "467Magmortar.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "468",
+        "name": "Togekiss",
+        "type": [
+            "Fairy",
+            "Flying"
+        ],
+        "image": "468Togekiss.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "469",
+        "name": "Yanmega",
+        "type": [
+            "Bug",
+            "Flying"
+        ],
+        "image": "469Yanmega.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "470",
+        "name": "Leafeon",
+        "type": [
+            "Grass"
+        ],
+        "image": "470Leafeon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "471",
+        "name": "Glaceon",
+        "type": [
+            "Ice"
+        ],
+        "image": "471Glaceon.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "472",
+        "name": "Gliscor",
+        "type": [
+            "Ground",
+            "Flying"
+        ],
+        "image": "472Gliscor.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "473",
+        "name": "Mamoswine",
+        "type": [
+            "Ice",
+            "Ground"
+        ],
+        "image": "473Mamoswine.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "474",
+        "name": "Porygon-Z",
+        "type": [
+            "Normal"
+        ],
+        "image": "474Porygon-Z.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "475",
+        "name": "Gallade",
+        "type": [
+            "Psychic",
+            "Fighting"
+        ],
+        "image": "475Gallade.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "476",
+        "name": "Probopass",
+        "type": [
+            "Rock",
+            "Steel"
+        ],
+        "image": "476Probopass.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "477",
+        "name": "Dusknoir",
+        "type": [
+            "Ghost"
+        ],
+        "image": "477Dusknoir.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "478",
+        "name": "Froslass",
+        "type": [
+            "Ice",
+            "Ghost"
+        ],
+        "image": "478Froslass.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "479",
+        "name": "Rotom",
+        "type": [
+            "Electric",
+            "Ghost"
+        ],
+        "image": "479Rotom.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "480",
+        "name": "Uxie",
+        "type": [
+            "Psychic"
+        ],
+        "image": "480Uxie.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "481",
+        "name": "Mesprit",
+        "type": [
+            "Psychic"
+        ],
+        "image": "481Mesprit.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "482",
+        "name": "Azelf",
+        "type": [
+            "Psychic"
+        ],
+        "image": "482Azelf.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "483",
+        "name": "Dialga",
+        "type": [
+            "Steel",
+            "Dragon"
+        ],
+        "image": "483Dialga.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "484",
+        "name": "Palkia",
+        "type": [
+            "Water",
+            "Dragon"
+        ],
+        "image": "484Palkia.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "485",
+        "name": "Heatran",
+        "type": [
+            "Fire",
+            "Steel"
+        ],
+        "image": "485Heatran.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "486",
+        "name": "Regigigas",
+        "type": [
+            "Normal"
+        ],
+        "image": "486Regigigas.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "487",
+        "name": "Giratina",
+        "type": [
+            "Ghost",
+            "Dragon"
+        ],
+        "image": "487Giratina.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "488",
+        "name": "Cresselia",
+        "type": [
+            "Psychic"
+        ],
+        "image": "488Cresselia.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "489",
+        "name": "Phione",
+        "type": [
+            "Water"
+        ],
+        "image": "489Phione.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "490",
+        "name": "Manaphy",
+        "type": [
+            "Water"
+        ],
+        "image": "490Manaphy.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "491",
+        "name": "Darkrai",
+        "type": [
+            "Dark"
+        ],
+        "image": "491Darkrai.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "492",
+        "name": "Shaymin",
+        "type": [
+            "Grass"
+        ],
+        "image": "492Shaymin.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "493",
+        "name": "Arceus",
+        "type": [
+            "Normal"
+        ],
+        "image": "493Arceus.png",
+        "male": true,
+        "female": true,
+        "shiny": true,
+        "lucky": true,
+        "available": false
+    },
+    {
+        "id": "808",
+        "name": "Meltan",
+        "type": [
+            "Steel"
+        ],
+        "image": "808Meltan.png",
+        "male": false,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    },
+    {
+        "id": "809",
+        "name": "Melmetal",
+        "type": [
+            "Steel"
+        ],
+        "image": "809Melmetal.png",
+        "male": false,
+        "female": false,
+        "shiny": true,
+        "lucky": true,
+        "available": true
+    }
+]

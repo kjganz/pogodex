@@ -1,0 +1,19 @@
+:root {
+	--light-yellow: #ffee94;
+	--yellow: #ffcd41;
+	--gold: #d59c29;
+	--brown: #8b6210;
+	--white: #ffffff;
+	--light-gray: #d5d5d5;
+	--gray: #a4a4a4;
+	--dark-gray: #6a6a6a;
+	--light-purple: #bd8bc5;
+	--purple: #836aa4;
+	--dark-purple: #52296a;
+	--blue: #9cd5ff;
+	--red: #c50000;
+}
+
+html {
+	background-color: var(--light-yellow);
+}

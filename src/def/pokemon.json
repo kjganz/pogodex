@@ -1,0 +1,38 @@
+{
+	"1": {
+		"male": true,
+		"female": true,
+		"shiny": true,
+		"lucky": true
+	},
+	"2": {
+		"male": true,
+		"female": true,
+		"shiny": true,
+		"lucky": false
+	},
+	"3": {
+		"male": true,
+		"female": true,
+		"shiny": false,
+		"lucky": true
+	},
+	"4": {
+		"male": true,
+		"female": false,
+		"shiny": true,
+		"lucky": true
+	},
+	"5": {
+		"male": false,
+		"female": true,
+		"shiny": true,
+		"lucky": true
+	},
+	"6": {
+		"male": true,
+		"female": false,
+		"shiny": false,
+		"lucky": false
+	}
+}
