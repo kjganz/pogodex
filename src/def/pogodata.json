@@ -1111,7 +1111,7 @@
             "Normal",
             "Flying"
         ],
-        "image": "083Farfetch'd.png",
+        "image": "083Farfetchd.png",
         "male": true,
         "female": true,
         "shiny": true,
@@ -1632,7 +1632,7 @@
             "Psychic",
             "Fairy"
         ],
-        "image": "122Mr. Mime.png",
+        "image": "122Mr_Mime.png",
         "male": true,
         "female": true,
         "shiny": true,
@@ -5906,7 +5906,7 @@
             "Psychic",
             "Fairy"
         ],
-        "image": "439Mime Jr..png",
+        "image": "439Mime_Jr.png",
         "male": true,
         "female": true,
         "shiny": true,

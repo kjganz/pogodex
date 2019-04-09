@@ -1,23 +1,43 @@
 <template>
     <div class="pokedex">
-        <pokemon-card v-for="data in pokeData" :key="data.name" :pokemon="data"></pokemon-card>
+        <pokemon-card
+            v-for="data in pokeData"
+            :key="data.id"
+            :pokemon="data"
+            :state="getState(data.id)"
+            v-on:state-update="updateState">
+        </pokemon-card>
     </div>
 </template>
 
 <script>
-// @ is an alias to /src
+import debounce from 'lodash.debounce';
 import PokemonCard from '@/components/PokemonCard.vue';
 import pogoData from '@/def/pogodata.json';
-import pokemonData from '@/def/pokemon.json';
+
+import { API } from 'aws-amplify';
+import Vue from 'vue';
 
 export default {
     name: 'pogodex',
     components: {
         PokemonCard
     },
+    async created() {
+        const pokedexList = await API.get("pokedex", "/pokedex/list");
+        if (pokedexList.length === 0) {
+            const createdPokedex = await API.post("pokedex", "/pokedex");
+            this.pokemonData = createdPokedex.dexData;
+        } else {
+            // this.$set("pokemonData", pokedexList[0].dexData);
+            this.pokedexId = pokedexList[0].pokedexId,
+            this.pokemonData = pokedexList[0].dexData;
+        }
+    },
     data() {
         return {
-            pokemonData,
+            pokedexId: null,
+            pokemonData: {},
             defaultPokemonState: {
                 male: false,
                 female: false,
@@ -29,13 +49,33 @@ export default {
     computed: {
         pokeData() {
             let data = pogoData
-                .filter(pokemon => pokemon.available)
-                .map(pokemon => {
-                    pokemon.state = this.pokemonData[pokemon.id] || this.defaultPokemonState;
-                    return pokemon
-                });
+                .filter(pokemon => pokemon.available);
+                // .map(pokemon => {
+                //     pokemon.state = this.pokemonData[pokemon.id] || this.defaultPokemonState;
+                //     return pokemon
+                // });
             return data;
         }
+    },
+    methods: {
+        getState(id) {
+            return this.pokemonData[id] || this.defaultPokemonState;
+        },  
+        async updateState(payload) {
+            const id = payload.id;
+            this.$set(this.pokemonData, id, {...this.pokemonData[id], ...payload.state});
+            this.saveDexState();
+        },
+        saveDexState: debounce(async function() {
+            let result = await API.put(
+                "pokedex",
+                `/pokedex/${this.pokedexId}`,
+                { body: this.pokemonData }
+            );
+            if (!result.status) {
+                alert("Issue saving data, please make sure you're connected to the internet.")
+            }
+        }, 2000)
     }
 }
 </script>

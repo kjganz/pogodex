@@ -5,30 +5,30 @@
         <div class="status-container">
             <!-- Male -->
             <label class="status-label" v-if="pokemon.male">
-                <input class="status-checkbox status-male" type="checkbox" name="gender-male" :checked="pokemon.state.male">
+                <input class="status-checkbox" type="checkbox" name="male" :checked="state.male" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-male.svg" alt="male gender symbol" />
             </label>
             <div v-if="!pokemon.male && pokemon.female"></div>
             <!-- Female -->
             <label class="status-label" v-if="pokemon.female">
-                <input class="status-checkbox status-female" type="checkbox" name="gender-female" :checked="pokemon.state.female">
+                <input class="status-checkbox" type="checkbox" name="female" :checked="state.female" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-female.svg" alt="female gender symbol" />
             </label>
             <div v-if="pokemon.male && !pokemon.female"></div>
             <!-- Genderless -->
             <label class="status-label" v-if="!pokemon.male && !pokemon.female">
-                <input class="status-checkbox status-genders" type="checkbox" name="genders" :checked="pokemon.state.male">
+                <input class="status-checkbox" type="checkbox" name="male" :checked="state.male" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-genders.svg" alt="genders symbol" />
             </label>
             <div v-if="!pokemon.male && !pokemon.female"></div>
             <!-- Shiny  -->
             <label class="status-label">
-                <input class="status-checkbox status-shiny" type="checkbox" name="shiny" :checked="pokemon.state.shiny">
+                <input class="status-checkbox" type="checkbox" name="shiny" :checked="state.shiny" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-shining.svg" alt="shiny symbol" />
             </label>
             <!-- Lucky -->
             <label class="status-label">
-                <input class="status-checkbox status-lucky" type="checkbox" name="lucky" :checked="pokemon.state.lucky">
+                <input class="status-checkbox" type="checkbox" name="lucky" :checked="state.lucky" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-dice.svg" alt="lucky symbol" />
             </label>
         </div>
@@ -42,10 +42,23 @@ export default {
         pokemon: {
             required: true,
             type: Object
+        },
+        state: {
+            type: Object,
+            required: true
         }
     },
-    mounted() {
-        console.log(this.pokemon);
+    methods: {
+        stateChange(e) {
+            // console.log({ [e.target.getAttribute('name')]: e.target.checked });
+            const attr = e.target.getAttribute('name');
+            const status = e.target.checked; 
+            
+            this.$emit('state-update', {
+                id: this.pokemon.id,
+                state: { ...this.state, [attr]: status }
+            });
+        }
     }
 }
 </script>
@@ -107,7 +120,6 @@ export default {
 }
 
 :checked + .status-icon {
-    /* fill: var(--blue); */
     fill: var(--light-yellow);
     background-color: var(--purple);
 }
