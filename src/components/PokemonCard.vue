@@ -50,7 +50,6 @@ export default {
     },
     methods: {
         stateChange(e) {
-            // console.log({ [e.target.getAttribute('name')]: e.target.checked });
             const attr = e.target.getAttribute('name');
             const status = e.target.checked; 
             

@@ -16,7 +16,6 @@ import PokemonCard from '@/components/PokemonCard.vue';
 import pogoData from '@/def/pogodata.json';
 
 import { API } from 'aws-amplify';
-import Vue from 'vue';
 
 export default {
     name: 'pogodex',
