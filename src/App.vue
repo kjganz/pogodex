@@ -1,7 +1,7 @@
 <template>
     <div id="app">
         <div id="nav">
-            <amplify-sign-in v-if="!isAuthenticated"></amplify-sign-in>
+            <amplify-authenticator v-if="!isAuthenticated"></amplify-authenticator>
             <amplify-sign-out v-else></amplify-sign-out>
             <router-link :to="{name:'pogodex'}">Dex</router-link>
         </div>
