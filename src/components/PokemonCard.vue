@@ -26,11 +26,13 @@
                 <input class="status-checkbox" type="checkbox" name="shiny" :checked="state.shiny" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-shining.svg" alt="shiny symbol" />
             </label>
+            <div v-if="!pokemon.shiny"></div>
             <!-- Lucky -->
             <label class="status-label">
                 <input class="status-checkbox" type="checkbox" name="lucky" :checked="state.lucky" @change="stateChange">
                 <img svg-inline svg-sprite class="status-icon" src="@/assets/image/icon-dice.svg" alt="lucky symbol" />
             </label>
+            <div v-if="!pokemon.lucky"></div>
         </div>
     </div>
 </template>
