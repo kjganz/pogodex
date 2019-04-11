@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pogodex/precache-manifest.f1c26363db2a3c30a7eabed27f87cc54.js"
+  "/pogodex/precache-manifest.152fd4ffd655afc2a53f7004bd916e5d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pogodex"});
