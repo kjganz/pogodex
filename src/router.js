@@ -13,6 +13,12 @@ export default new Router({
       name: 'pogodex',
       component: Pogodex
     },
+    {
+      path: '/:id',
+      name: 'pogodex_by_id',
+      component: Pogodex,
+      props: true
+    }
     // {
     //   path: '/about',
     //   name: 'about',

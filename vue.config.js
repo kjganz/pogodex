@@ -6,5 +6,5 @@ module.exports = {
                 .loader("vue-svg-inline-loader")
                 .options({ /* ... */ });
     },
-    publicPath: "/pogodex/"
+    publicPath: process.env.NODE_ENV === 'production' ? '/pogodex/' : '/';
 };

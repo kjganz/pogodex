@@ -22,15 +22,27 @@ export default {
     components: {
         PokemonCard
     },
+    props: {
+        id: {
+            required: false,
+            type: String
+        }
+    },
     async created() {
-        const pokedexList = await API.get("pokedex", "/pokedex/list");
-        if (pokedexList.length === 0) {
-            const createdPokedex = await API.post("pokedex", "/pokedex");
-            this.pokemonData = createdPokedex.dexData;
+        if (this.id) {
+            const pokedex = await API.get("pokedex", `/pokedex/${this.id}`);
+            this.pokedexId = pokedex.pokedexId;
+            this.pokemonData = pokedex.dexData;
         } else {
-            // this.$set("pokemonData", pokedexList[0].dexData);
-            this.pokedexId = pokedexList[0].pokedexId,
-            this.pokemonData = pokedexList[0].dexData;
+            const pokedexList = await API.get("pokedex", "/pokedex/list");
+            if (pokedexList.length === 0) {
+                const createdPokedex = await API.post("pokedex", "/pokedex");
+                this.pokemonData = createdPokedex.dexData;
+            } else {
+                // this.$set("pokemonData", pokedexList[0].dexData);
+                this.pokedexId = pokedexList[0].pokedexId,
+                this.pokemonData = pokedexList[0].dexData;
+            }
         }
     },
     data() {
