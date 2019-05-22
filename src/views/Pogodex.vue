@@ -33,6 +33,10 @@ export default {
             const pokedex = await API.get("pokedex", `/pokedex/${this.id}`);
             this.pokedexId = pokedex.pokedexId;
             this.pokemonData = pokedex.dexData;
+        } else if (this.$route.query.id) {
+            const pokedex = await API.get("pokedex", `/pokedex/${this.$route.query.id}`);
+            this.pokedexId = pokedex.pokedexId;
+            this.pokemonData = pokedex.dexData;
         } else {
             const pokedexList = await API.get("pokedex", "/pokedex/list");
             if (pokedexList.length === 0) {
